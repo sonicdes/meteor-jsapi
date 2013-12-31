@@ -1,0 +1,8 @@
+{
+  "name": "jsapi",
+  "description": "Google api loader for Meteor",
+  "homepage": "https://github.com/sonicdes/meteor-jsapi",
+  "author": "Denis Sadomowski",
+  "version": "0.0.1",
+  "git": "https://github.com/sonicdes/meteor-jsapi.git"
+}
